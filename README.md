@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Vitor Miracca</h1>
-<h3 align="center">Analista de Dados em desenvolvimento | Entusiasta de Banco de Dados</h3>
+<h3 align="center">Analista de Dados | Entusiasta de Programação</h3>
 
-- 🌱 Atualmente estou aprendendo e aprofundando conhecimentos em **Linguagem SQL, DataViz, Data Quality e Governança de Dados**
+- 🌱 Atualmente estou aprendendo e aprofundando conhecimentos em **Linguagem SQL, Python, ETLDataViz, Data Quality e Governança de Dados**
 
 - 📫 Entre em contato comigo pelo email: **vitormiracca@gmail.com**
 
@@ -21,9 +21,10 @@
 
 
 - 👋 Hi, I’m @vitormiracca ;
-- 👀 I’m interested in Data Analytics, Data Base Administration, Data Quality and all the concepts and processes present in data area ;
-- 🌱 I’m currently learning SQL, Data Vizualizaion, Data Quality and ETL / ELT;
-- 💞️ I’m looking to collaborate on data teams, with data analysis and data manipulation on data bases;
+- 👀 I’m interested in Data Analytics, Data Base Administration, Data Engeneering and all the concepts and processes present in data area ;
+- 🌱 I’m currently learning Python, Data Base Modeling, ETL / ELT;
+- 🌱 I'm also starting my studies in programming and software development (Back and Front - end) ;
+- 💞️ I’m looking to collaborate on data teams, with data analysis and data manipulation on data bases, and eventually in a Software Development team ;
 - 📫 How to reach me: send an email to vitormiracca@gmail.com , or contact me on linkedin (https://www.linkedin.com/in/vitor-miracca/)
 
 vitormiracca/vitormiracca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
