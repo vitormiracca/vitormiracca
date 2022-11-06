@@ -1,9 +1,16 @@
 <h1 align="center">Olá, eu sou o Vitor Miracca</h1>
 <h3 align="center">Analista de Dados | Entusiasta de Programação</h3>
 
-- 🌱 Atualmente estou aprendendo e aprofundando conhecimentos em **Linguagem SQL, Python, ETLDataViz, Data Quality e Governança de Dados**
+- 👋 Hi, I’m @vitormiracca ;
 
-- 📫 Entre em contato comigo pelo email: **vitormiracca@gmail.com**
+- 👀 I’m interested in Data Analytics, Data Engeneering and all the concepts and processes present in data area... Recently, my interest in Programming and Software Development has been increasing too;
+
+- 🌱 I’m currently learning Python and Data Base Modeling / ETL, techniques that make my day-by-day easier;
+- 🌱 I'm also starting my studies in programming and software development (Back and Front - end), starting with Python and JavaScript;
+
+- 💞️ I’m looking to collaborate on Data Teams, with data analysis and data engeneering, and eventually join a Software Development Team;
+
+- 📫 How to reach me: send an email to vitormiracca@gmail.com , or contact me on linkedin (https://www.linkedin.com/in/vitor-miracca/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
