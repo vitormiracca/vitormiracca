@@ -9,11 +9,11 @@ In this environment I centralize some personal projects, studies and even simple
 
 <h3 align="left">My Moment:</h3>
 
+- 🌱 Advancing on my journey as a software developer, consolidating knowledge such as Object Orientation, using C# as the main language and .NET ecosystem tools;
+
 - 🌱 Improving knowledge in Python and Shell Script, aimed at Data Pipeline routines;
 
-- 🌱 My first steps in the Java language, later Kotlin, aiming to implement a mobile application;
-
-- 💞️ I'm looking to collaborate in a Data Engineering or Analytics Engineering team for a while, to consolidate a little more knowledge in systems development;
+- 💞️ I'm looking to collaborate in a Analytics Engineering team or a Software Engineering team;
 
 - 📫 You can contact me at vitormiracca@gmail.com or on linkedin (https://www.linkedin.com/in/vitor-miracca/)
 
@@ -30,6 +30,7 @@ In this environment I centralize some personal projects, studies and even simple
     - Python;
     - SQL;
     - Bash / Shell Script;
+    - C# (.NET);
     - Java;
 
 - Tools / Environments:
